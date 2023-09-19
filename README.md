@@ -1,6 +1,6 @@
 # Learning-mode: on
 This is the first serious project I worked on.
-In this project, I undertook the development and training of five distinct machine learning models utilizing Python, Jupyter Notebooks, and an array of essential libraries, including NumPy, Pandas, SciPy, Scikit-Learn, Seaborn, and Matplotlib. 
+In this project, I undertook the development and training of five distinct machine learning models utilizing Python, Jupyter Notebooks, and some essential libraries, including NumPy, Pandas, SciPy, Scikit-Learn, Seaborn, and Matplotlib. 
 The primary objective of this project was to leverage these models to achieve precise predictions of automobile prices based on a comprehensive set of specific features.
 The models subjected to rigorous evaluation encompassed:
 Linear Regression
